@@ -1,0 +1,13 @@
+.title {
+    border: 7px solid blueviolet;
+    font-family: "Brush Script MT", cursive;
+    background-color: lawngreen;
+    margin-left:85px;
+    margin-right: 85px;
+    border-radius: 35px;
+    
+}
+.red {
+    color: red;
+    font-size: 75px;
+}
